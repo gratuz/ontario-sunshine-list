@@ -1,0 +1,19 @@
+{
+  "name": "ontario-sunshine-list",
+  "version": "1.0.0",
+  "description": "Simple graphql implementation to fetch some data",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "author": "gratus.d@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^5.0.1",
+    "express": "^4.16.3",
+    "express-graphql": "^0.6.12",
+    "graphql": "^0.13.2",
+    "mongodb": "^3.0.5",
+    "simple-statistics": "^5.3.1"
+  }
+}
